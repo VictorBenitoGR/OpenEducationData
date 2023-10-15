@@ -15,4 +15,4 @@ This project seeks to create a data analysis platform applicable to all high sch
 
 This project started as a personal initiative, and had participation in different exhibitions of software projects such as ExpoCiencias Nacional Nuevo León 2019, and was my project to obtain the Líderes del Mañana scholarship from Tec de Monterrey.
 
-![Event](assets/ExpoCienciasNacional.jpg)
+![Event](assets/ExpoCienciasNacional.png)
