@@ -109,7 +109,7 @@ dataset$Category <- case_when(
 unique(dataset$Category)
 
 
-# === EXPORT === --------------------------------------------------------------
+# *** EXPORT *** --------------------------------------------------------------
 
 # The file will be exported to the project's "data" folder
 
