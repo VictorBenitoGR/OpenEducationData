@@ -22,3 +22,23 @@ Its impact has perpetuated the educational deficiency, because even if better pe
 Includes ideas developed during my collaboration with the student management system MiTec of Tecnologico de Monterrey.
 
 ![Event](assets/OEduD_dashboards.png)
+
+## Current development
+
+> [!IMPORTANT]
+> Pending approval and modifications to be treated as Open Source, as intended.
+
+
+## Future work
+
+- Facilitating export with gganimate.
+- Native ggplot2-shiny dashboards.
+- Local UX/UI.
+
+
+## Contact
+
+Feel free to reach out if you have any questions or feedback.
+
+- **Email:** victorbenitogr@gmail.com
+- **The subject must start with:**  [OpenEducationData]
